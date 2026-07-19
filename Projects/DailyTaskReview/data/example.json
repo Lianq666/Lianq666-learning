@@ -1,0 +1,58 @@
+{
+  "Outputs": {
+    "PythonAI": "完成一个 Python 小练习",
+    "Major": "整理今天最重要的一个结论",
+    "English": "完成 20 分钟英语输入",
+    "Practice": "完成一次低成本实践",
+    "GitHub": "提交一次清晰的代码变更",
+    "Math": "复习一个数学概念"
+  },
+  "CreatedAt": "2026-01-01T08:00:00+08:00",
+  "Review": {
+    "Main": "今天完成了最重要的任务",
+    "Improve": "减少同时进行的任务数量",
+    "Reason": "示例记录，不代表真实个人情况",
+    "Tomorrow": "先完成一个核心任务再扩展"
+  },
+  "Energy": "中",
+  "ExtraPlanBreak": {
+    "Priority": "中",
+    "Impact": "帮助保持节奏",
+    "Reason": "示例字段",
+    "Item": "整理工作台",
+    "Enabled": false
+  },
+  "CoreTasks": [
+    {
+      "Group": "学习",
+      "Done": true,
+      "Id": "task-1",
+      "Text": "完成一个小型学习任务"
+    },
+    {
+      "Group": "实践",
+      "Done": false,
+      "Id": "task-2",
+      "Text": "把学习内容转成一个可运行的小实验"
+    }
+  ],
+  "Date": "2026-01-01",
+  "UpdatedAt": "2026-01-01T20:00:00+08:00",
+  "DayNumber": 1,
+  "Routine": [
+    {
+      "Task": "开始当天最重要的任务",
+      "Time": "09:00",
+      "Done": true,
+      "Standard": "完成一个明确的小步骤",
+      "Id": "routine-1"
+    },
+    {
+      "Task": "整理当天记录",
+      "Time": "21:00",
+      "Done": false,
+      "Standard": "写下事实、问题和明日行动",
+      "Id": "routine-2"
+    }
+  ]
+}

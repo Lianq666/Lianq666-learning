@@ -1,0 +1,16 @@
+# Personal daily records
+data/*.json
+data/*.bak
+!data/example.json
+
+# Windows shortcuts and local metadata
+*.lnk
+Thumbs.db
+desktop.ini
+
+# PowerShell/editor temporary files
+*.tmp
+*.log
+*.bak
+.vscode/
+.idea/
